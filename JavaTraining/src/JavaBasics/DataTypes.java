@@ -33,7 +33,7 @@ public class DataTypes {
 		double d1 = 100;  //100.00
 		
 		
-		// 3. Character char  only single digit value, should be written in single digit quotes
+		// 3. Character char  only single digit value, should be written in single digit quotes always
 		
 		char c = 'a';
 	// 	char e = "b";
