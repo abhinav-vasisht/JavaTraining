@@ -14,8 +14,8 @@ public class ParentClassforSuper {
 
 	public ParentClassforSuper(int i, int j) {
 
-		System.out.println("parent class constr with value of i " + i);
-		System.out.println("parent class constr with value of j " + j);
+		System.out.println("parent class constr with value of i is " + i);
+		System.out.println("parent class constr with value of j is " + j);
 
 	}
 
